@@ -5,6 +5,7 @@ def speak_to_grandma(phrase)
     return "I LIVE YOU TO PUMPKIN!"
   else
     return "HUH?! SPEAK UP, SONNY!"
+  end
 end
 
 # Write a speak_to_grandma method.
